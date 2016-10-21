@@ -1,9 +1,10 @@
 # Taiwan_ECweb-1_Analysis
 
-Target: 
+Target
 Certain C2C platform in Taiwan, Based in Singapore
 
-Code: 
+Code
+The whole project is consisted of Python and R scripts, including:
 1. Python Scrapy, Beautiful packages for data crawlers
 2. R script for data cleaning, transformation
 3. R Shiny for data visualization
