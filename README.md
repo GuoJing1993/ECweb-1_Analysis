@@ -1,7 +1,10 @@
 # Taiwan_ECweb-1_Analysis
 
-<strong>Target</strong></br>
-Certain C2C platform in Taiwan, Based in Singapore</br>
+<strong>Data Source</strong></br>
+C2C EC platform based in Singapore, but the data set is from their Taiwanese website.
+
+<strong>Data Object</strong></br>
+All detailed information of items posted on the platform, including post time, price, likes, and logistic situations...,etc.
 
 <strong>Code</strong></br>
 The whole project is consisted of Python and R scripts, including:</br>
